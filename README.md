@@ -31,5 +31,5 @@ The application must record only from the following emotions and must have their
   5. Adding more features and activities is advised if deemed necessary.
 
 ## Submission
-- Compress (ZIP) the overall project.
+- Compress (ZIP) the overall project (or simply push your output in this repo)
 - Build the APK of the application
